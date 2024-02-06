@@ -2,7 +2,7 @@
 
 ## Code reference: 
 * This is the code of the work published in **MA Lebdeh, et al. "Efficient Processing of Spiking Neural Networks via Task Specialization", IEEE TETCI, 2024**.  
-* The training of the SNNs are adopted fron tdBN from https://github.com/thiswinex/STBP-simple  
+* The training of the SNNs are adopted from tdBN from https://github.com/thiswinex/STBP-simple  
 
 
 ## Notes:
